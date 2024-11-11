@@ -1,0 +1,6 @@
+GAN_MNIST/
+Q1/data
+Q1/DCGAN_using_MNIST_dataset_q1.ipynb
+Q2/data/
+Q1/discriminator_cifar.pth
+Q1/generator_cifar.pth
